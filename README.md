@@ -1,1 +1,1 @@
-# AI-Coder-with-Genetic-Algorithm
+# AI Coder (with Genetic Algorithm)
